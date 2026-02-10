@@ -1,6 +1,6 @@
-# ASI Cancer Treatment System V5.0 - Ultimate Edition
+# Bio-Cancer Genomics Gradio Portal
 
-A powerful multi-omics analysis platform featuring real TCGA data integration and a modern Gradio web interface.
+A professional multi-omics analysis platform featuring real-world TCGA (The Cancer Genome Atlas) data integration and an interactive Gradio web interface.
 
 ## Features
 
